@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Learn Basic Chinese</string>
+
+    <string-array name="Categories">
+        <item>Greetings</item>
+        <item>General Dialogue</item>
+        <item>Numbers</item>
+        <item>Time and Date</item>
+        <item>Vehicles</item>
+        <item>Countries</item>
+        <item>Family</item>
+        <item>Body Parts</item>
+    </string-array>
+
+</resources>
